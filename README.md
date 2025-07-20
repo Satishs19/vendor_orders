@@ -1,4 +1,5 @@
-Backend Assessment: Vendor Order Analytics System
+Vendor Order Analytics System
+
 Features
 1. Event Queue
 POST /events — Publishes order events to Redis for processing
